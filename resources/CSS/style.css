@@ -26,3 +26,9 @@ h3 {
   font-size: 21px;
   font-weight: normal;
 }
+.footer {
+  text-align: right;
+  font-family: verdana;
+  font-size: 21px;
+  color: gray;
+}
